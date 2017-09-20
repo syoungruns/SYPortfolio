@@ -1,0 +1,155 @@
+.top-wrapper{
+  height: 70px;
+  width: 970px;
+  background-color: #DCDCDC;
+}
+
+.top-wrapper h1{
+  display: inline-block;
+  width: 450px;
+  font-size: 30px;
+  font-style: Garamond;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.top-wrapper p{
+  display: inline-block;
+  width: 450px;
+  font-size: 30px;
+  font-style: Garamond;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.big-wrapper{
+  height: 970px;
+  width: 970px;
+  padding-top: 10px;
+  background: linear-gradient(#1B0B0F, #4D3941, #1B0B0F);
+}
+
+.big-wrapper p{
+  color: black;
+  height: 0px;
+  font-size: 16px;
+}
+
+.aboutMe span{
+  text-decoration: underline;
+}
+
+.aboutMe{
+  background-color: white;
+  color: black;
+  height: 230px;
+  width: 400px;
+  font-size: 12px;
+  padding-top: 10px;
+  margin-left: 170px;
+  text-indent: 20px;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.aboutMe h1{
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  text-align:left;
+  height: 40px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.La-Mode p{
+  color: black;
+  margin-bottom: 150px;
+}
+
+.Jimg{
+  margin-left: 12px;
+  margin-bottom: 20px;
+  border: 5px solid #808080;
+  height: 230px;
+  width: 350px;
+}
+
+.La-Mode{
+  height: 575px;
+  width: 300px;
+  margin-left: 12px;
+  margin-right: 1px;
+  background-color: white;
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+  text-align: 30px;
+}
+
+.La-Mode h1{
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  width: 300px;
+  font-weight: lighter;
+  margin:0px;
+}
+
+.LaMode/*pic*/{
+  height: 170px;
+  width: 300px;
+}
+
+.FamilyContacts{
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  width: 300px;
+  font-weight: lighter;
+  display: inline-block;
+}
+
+.fiveEleven{
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+  height: 60px;
+  width: 300px;
+  text-indent: 20px;
+}
+
+.icon{
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+button{
+  color: green;
+  text-align: center;
+  display: block;
+  margin: 0px auto;
+  font-size: 12px;
+  border-radius: 12px;
+}
+
+.footer{
+  margin-top: 70px;
+  background-color: white;
+  margin-bottom: 20px;
+  height: 70px;
+  width: 970px;
+  color: black;
+  display: inline-block;
+  text-align: center;
+}
+
+.footer span{
+  margin: 0px auto;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+}
